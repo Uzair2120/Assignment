@@ -1,0 +1,507 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    background-color: #363543;
+    width: 100%;
+    height: 718px;
+}
+
+.circle {
+    background-color: #2D2D38;
+    width: 600px;
+    height: 600px;
+    margin: auto auto;
+    border-radius: 50%;
+    margin-top: 90px;
+}
+
+.navbar {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #363543;
+}
+
+.in-navbar {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    margin: 25px 0px;
+}
+
+.for-logo {
+    width: 15%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.for-logo img {
+    height: 40px;
+    width: 170px;
+}
+
+
+.for-menu {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.menu-items ul {
+    display: flex;
+}
+
+.menu-items ul li {
+    list-style: none;
+    padding: 5px 20px;
+}
+
+.menu-items ul li a {
+    text-decoration: none;
+    color: rgb(170, 170, 170);
+    font-size: 20px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+}
+
+.menu-items ul li a.active,
+.menu-items ul li a:hover {
+    color: rgb(255, 255, 255);
+}
+
+
+.for-rightitems {
+    width: 17%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-top: 3px;
+}
+
+.in-rightitems img {
+    height: 30px;
+    width: 30px;
+    padding: 0px 10px;
+}
+
+.in-rightitems img:hover {
+    filter: invert(60%);
+}
+
+.for-namesec {
+    position: relative;
+    top: -67%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.in-mainsec {
+    width: 70%;
+    height: 70%;
+    display: flex;
+}
+
+.name-left {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+
+.headings h1 {
+    color: rgb(170, 170, 170);
+    font-size: 70px;
+    font-weight: 400;
+    font-family: 'DM Sans', sans-serif;
+}
+
+#main-head {
+    color: white;
+    font-size: 95px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-border {
+    height: 5px;
+    width: 185px;
+    background-color: #FEB819;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+.bio-para {
+    width: 44%;
+    margin: 30px 0;
+}
+
+.bio-para p {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    color: rgb(204, 204, 204);
+}
+
+
+
+.name-right {
+    width: 50%;
+    height: 70%;
+    display: flex;
+    justify-content: right;
+}
+
+.social-bio {
+    width: 51%;
+    margin-right: 56px;
+}
+
+.for-socioicons {
+    width: 100%;
+    display: flex;
+    margin: 30px 0px;
+}
+
+.social-bio h3 {
+    color: rgb(170, 170, 170);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    margin: 10px 0px;
+}
+
+.social-bio p {
+    color: rgb(170, 170, 170);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    margin: 20px 0px;
+}
+
+.social-bio span {
+    color: #FEB819;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.social-bio span a {
+    color: #FEB819;
+    font-family: 'DM Sans', sans-serif;
+    text-decoration: none;
+}
+
+#fb {
+    color: #FEB819;
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #474957;
+    margin: 5px 10px;
+    margin-left: 0;
+}
+
+#twit {
+    color: #FEB819;
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #474957;
+    margin: 5px 10px;
+}
+
+#inst {
+    color: #FEB819;
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #474957;
+    margin: 5px 10px;
+}
+
+#pinter {
+    color: #FEB819;
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #474957;
+    margin: 5px 10px;
+}
+
+.fa-arrow-right {
+    margin: 0px 10px;
+}
+
+.profile-pic {
+    position: absolute;
+    top: 78px;
+    display: flex;
+    justify-content: center;
+    left: 32%;
+    height: 650px;
+}
+
+.profile-pic img {
+    height: 100%;
+    width: 100%;
+}
+
+.for-google {
+    height: 160px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    top: -54%;
+}
+
+.google {
+    background-color: #3F3E4F;
+    width: 70%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.in-google{
+    display: flex;
+    width: 70%;
+    height: 50%;
+}
+
+.google-icons {
+    background-color: #363543;
+    width: 43%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 0px 35px;
+}
+
+.google-icons img {
+    height: 70%;
+}
+
+.googleno1 span {
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    margin: 0px 5px;
+}
+
+.googleno3 span {
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    margin: 0px 2px;
+}
+
+.googleno4 span {
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    margin: 0px 2px;
+}
+
+
+
+
+
+#main-2 {
+    background-color: #282834;
+    height: 740px;
+    display: flex;
+    justify-content: center;
+}
+
+.in-main2 {
+    height: 70%;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    margin-top: 135px;
+}
+
+.services {
+    width: 40%;
+    height: 80%;
+}
+
+.in-services h1 {
+    font-family: 'DM Sans', sans-serif;
+    color: aliceblue;
+    font-size: 60px;
+    font-weight: 500;
+    margin: 20px 0px;
+}
+
+.in-services>p {
+    color: rgb(170, 170, 170);
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+    padding-right: 170px;
+    margin: 20px 0px;
+}
+
+.projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    padding: 10px 0px;
+}
+
+.pro h3 {
+    color: #FEB819;
+    font-size: 30px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.pro-para {
+    font-size: 16px;
+    color: rgb(170, 170, 170);
+    font-family: 'DM Sans', sans-serif;
+}
+
+.work {
+    width: 60%;
+    height: 90%;
+    margin-top: 85px;
+}
+
+.in-work {
+    height: 86%;
+    margin-left: 80px;
+}
+
+.assign {
+    border-bottom: 1px solid grey;
+    height: 25%;
+    padding: 20px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.assign .fa-solid {
+    color: #FEB819;
+    font-size: 24px;
+}
+
+#arr1 {
+    margin-left: 300px;
+}
+
+#arr2 {
+    margin-left: 240px;
+}
+
+#arr3 {
+    margin-left: 223px;
+}
+
+.img {
+    width: 25%;
+    height: 100%;
+}
+
+.img img {
+    height: 100%;
+    width: 100%;
+}
+
+.work-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px 20px;
+}
+
+.work-info h2 {
+    color: aliceblue;
+    font-size: 24px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.work-info p {
+    color: rgb(170, 170, 170);
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+#main-3 {
+    height: 385px;
+    background-color: #282834;
+    display: flex;
+    justify-content: center;
+}
+
+.in-main3 {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 90px;
+}
+
+.dev {
+    width: 31%;
+    background-color: #403F51;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.end-icons {
+    width: 30px;
+    height: 30px;
+    padding: 15px;
+    border-radius: 30px;
+    background-color: #333143;
+    margin: 25px;
+}
+
+.end-icons img {
+    width: 100%;
+    height: 100%;
+}
+
+.end-sec h2 {
+    color: aliceblue;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 32px;
+}
+
+.end-sec p {
+    color: rgb(170, 170, 170);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+}
+
+.end-sec {
+    padding: 5px 25px;
+}

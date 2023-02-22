@@ -1,0 +1,1003 @@
+@media  screen and (max-width:1400px) and (min-width:1200px) {
+
+    .in-navbar {
+        width: 90%;
+    }
+
+    .for-logo{
+        justify-content: start;
+    }
+
+    .for-menu {
+        width: 68%;
+    }
+
+    .for-rightitems{
+        width: 18%;
+        justify-content: end;
+    }
+    
+    .in-mainsec {
+        width: 90%;
+    }
+
+    .name-left {
+        width: 53%;
+    }
+
+    #main-head{
+        font-size: 83px;
+    }
+
+    .profile-pic{
+        left: 0;
+        width: 100%;
+        height: 670px;
+    }
+
+    .profile-pic img{
+        width:50%;
+    }
+
+    .google {
+        width: 90%;
+    }
+
+    .social-bio{
+        width: 45%;
+        margin-right: 100px;
+    }
+
+    .bio-para {
+        width: 50%;
+    }
+
+    .for-google{
+        top: -49%;
+        height: 140px;
+    }
+
+    .in-main2{
+        width: 90%;
+    }
+
+    .img {
+        width: 30%;
+    }
+
+    .in-work{
+        margin-top: 15px;
+    }
+    
+    .in-services h1{
+        font-size: 3.8em;
+    }
+
+    .in-main3{
+        width: 90%;
+    }
+
+    .dev{
+        width: 30%;
+    }
+
+    #arr3 {
+        margin-left: auto;
+    }
+
+    #arr2 {
+        margin-left: auto;
+    }
+
+    #arr1 {
+        margin-left: auto;
+    }
+
+    .end-sec p {
+        font-size: 17px;
+        padding-top: 15px;
+    }
+
+
+}
+
+
+@media  screen and (max-width:1200px) and (min-width:1000px) {
+
+    .in-navbar {
+        width: 90%;
+    }
+
+    .for-logo{
+        justify-content: start;
+    }
+
+    .for-menu {
+        width: 68%;
+    }
+
+    .for-rightitems{
+        width: 23%;
+        justify-content: end;
+    }
+
+    .in-mainsec {
+        width: 90%;
+    }
+
+    .google {
+        width: 90%;
+    }
+
+    .in-main2{
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    #main-head {
+        font-size: 65px;
+    }
+
+    .headings h1{
+        font-size: 58px;
+    }
+
+    .bio-para {
+        width: 55%;
+        margin: 30px 0;
+        margin-bottom: 77px;
+    }
+
+    .profile-pic{
+        left: 0;
+        width: 100%;
+        height: 670px;
+    }
+
+    .profile-pic img{
+        width:55%;
+    }
+
+    .in-main3{
+        width: 90%;
+    }
+
+    .in-services h1 {
+        font-size: 50px;
+    }
+
+    .in-services>p{
+        padding-right: 110px;
+    }
+
+    #arr3 {
+        margin-left: auto;
+    }
+
+    #arr2 {
+        margin-left: auto;
+    }
+
+    #arr1 {
+        margin-left: auto;
+    }
+    
+    .end-sec h2 {
+        font-size: 29px;
+    }
+
+    .google-icons{
+        height: 100%;
+    }
+
+    .for-google{
+        height: 140px;
+    }
+
+    .end-sec p {
+        font-size: 16px;
+        padding-top: 15px;
+    }
+
+}
+
+
+
+@media  screen and (max-width:1600px) and (min-width:1400px) {
+    .in-navbar {
+        width: 90%;
+    }
+
+    .for-logo{
+        justify-content: start;
+    }
+
+    .for-menu {
+        width: 68%;
+    }
+
+    .for-rightitems{
+        width: 18%;
+        justify-content: end;
+    }
+    
+    .in-mainsec {
+        width: 90%;
+    }
+
+    .name-left {
+        width: 53%;
+    }
+
+    #main-head{
+        font-size: 83px;
+    }
+
+    .profile-pic{
+        left: 0;
+        width: 100%;
+        height: 670px;
+    }
+
+    .profile-pic img{
+        width:50%;
+    }
+
+    .google {
+        width: 90%;
+    }
+
+    .social-bio{
+        width: 45%;
+        margin-right: 100px;
+    }
+
+    .bio-para {
+        width: 50%;
+    }
+
+    .for-google{
+        top: -49%;
+    }
+
+    .in-main2{
+        width: 90%;
+    }
+
+    .img {
+        width: 30%;
+    }
+
+    .in-work{
+        margin-top: 15px;
+    }
+    
+    .in-services h1{
+        font-size: 3.8em;
+    }
+
+    .in-main3{
+        width: 90%;
+    }
+
+    .dev{
+        width: 30%;
+    }
+
+    #arr3 {
+        margin-left: auto;
+    }
+
+    #arr2 {
+        margin-left: auto;
+    }
+
+    #arr1 {
+        margin-left: auto;
+    }
+
+    .end-sec p {
+        font-size: 17px;
+        padding-top: 15px;
+    }
+
+}
+
+
+
+
+
+
+@media  screen and (max-width:1800px) and (min-width:1600px) {
+    .in-navbar {
+        width: 90%;
+    }
+
+    .for-logo{
+        justify-content: start;
+    }
+
+    .for-menu {
+        width: 68%;
+    }
+
+    .for-rightitems{
+        width: 18%;
+        justify-content: end;
+    }
+    
+    .in-mainsec {
+        width: 90%;
+    }
+
+    .name-left {
+        width: 53%;
+    }
+
+    #main-head{
+        font-size: 83px;
+    }
+
+    .profile-pic{
+        left: 0;
+        width: 100%;
+        height: 670px;
+    }
+
+    .profile-pic img{
+        width:40%;
+    }
+
+    .google {
+        width: 90%;
+    }
+
+    .social-bio{
+        width: 45%;
+        margin-right: 145px;
+    }
+
+    .bio-para {
+        width: 50%;
+    }
+
+    .for-google{
+        top: -49%;
+    }
+
+    .in-main2{
+        width: 90%;
+    }
+
+    .img {
+        width: 30%;
+    }
+
+    .in-work{
+        margin-top: 15px;
+    }
+    
+    .in-services h1{
+        font-size: 3.8em;
+    }
+
+    .in-main3{
+        width: 90%;
+    }
+
+    .dev{
+        width: 30%;
+    }
+
+    #arr3 {
+        margin-left: auto;
+    }
+
+    #arr2 {
+        margin-left: auto;
+    }
+
+    #arr1 {
+        margin-left: auto;
+    }
+
+    .end-sec p {
+        font-size: 18px;
+        padding-top: 15px;
+    }
+
+}
+
+
+
+@media  screen and (max-width:1000px) and (min-width:800px) {
+    
+        .in-navbar {
+            width: 95%;
+        }
+    
+        .for-logo{
+            justify-content: start;
+        }
+    
+        .for-menu {
+            width: 68%;
+            margin-left: 54px;
+            justify-content: center;
+        }
+    
+        .for-rightitems{
+            width: 24%;
+            justify-content: end;
+        }
+    
+        .in-mainsec {
+            width: 95%;
+        }
+    
+        .google {
+            width: 95%;
+        }
+    
+        .in-main2{
+            width: 95%;
+        }
+    
+        #main-head {
+            font-size: 50px;
+        }
+    
+        .headings h1{
+            font-size: 40px;
+        }
+    
+        .bio-para {
+            width: 55%;
+            margin: 30px 0;
+            margin-bottom: 77px;
+        }
+    
+        .profile-pic{
+            left: 0;
+            width: 100%;
+            height: 670px;
+        }
+    
+        .profile-pic img{
+            width:60%;
+        }
+    
+        .in-main3{
+            width: 95%;
+        }
+    
+        .in-services h1 {
+            font-size: 44px;
+        }
+    
+        .in-services>p{
+            padding-right: 95px;
+            font-size: 16px;
+        }
+    
+        #arr3 {
+            margin-left: auto;
+        }
+    
+        #arr2 {
+            margin-left: auto;
+        }
+    
+        #arr1 {
+            margin-left: auto;
+        }
+        
+        .end-sec h2 {
+            font-size: 20px;
+        }
+    
+        .google-icons{
+            height: 100%;
+        }
+    
+        .for-google{
+            height: 120px;
+        }
+
+        .for-logo img {
+            height: 35px;
+            width: 150px;
+        }
+
+        .menu-items ul li a {
+            font-size: 17px;
+        }
+
+        .in-rightitems img {
+            height: 25px;
+            width: 25px;
+            padding: 0px 10px;
+        }
+
+        .navbar{
+            height: 90px;
+            align-items: center;
+        }
+
+        .bio-para p{
+            font-size: 16px;
+        }
+
+        .social-bio {
+            width: 60%;
+            margin-right: 0;
+        }
+
+        .social-bio p {
+            font-size: 20px;
+        }
+
+        .main {
+            height: 670px;
+        }
+
+        .end-sec p {
+            font-size: 16px;
+            padding-top: 15px;
+        }
+
+        .work-info h2{
+            font-size: 20px;
+        }
+
+        .pro h3{
+            font-size: 24px;
+        }
+
+        .work-info p{
+            font-size: 16px;
+        }
+    
+}
+
+
+@media screen and (max-width:480px) and (min-width:320px) {
+    
+    .for-menu {
+        display: none;
+    }
+
+    .main{
+        height: 1125px;
+    }
+
+    .navbar{
+        background-color: #222222;
+    }
+
+    .in-navbar{
+        width: 95%;
+    }
+
+    .for-logo {
+        width: 50%;
+        justify-content: start;
+    }
+
+    .for-logo img {
+        height: 30px;
+        width: 140px;
+    }
+
+    .for-rightitems {
+        width: 50%;
+        justify-content: end;
+    }
+
+    .yes{
+        display: none;
+    }
+
+    #yes{
+        display: block;
+    }
+
+    .profile-pic {
+        top: 115%;
+        left: 5%;
+    }
+
+    .profile-pic img {
+        height: 60%;
+    }
+
+    .circle{
+        /* display: none; */
+        height: 300px;
+        width: 300px;
+        margin-top: 0;
+        position: absolute;
+        top: 123%;
+    left: 16%;
+    }
+
+    .for-namesec{
+        padding-top: 120px;
+        top: 0%;
+    }
+
+    .in-mainsec{
+        width: 95%;
+        display: block;
+    }
+
+    .name-left{
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .headings h1 {
+        font-size: 45px;
+    }
+
+    #main-head {
+        font-size: 55px;
+    }
+
+    .bottom-border {
+        width: 110px;
+    }
+
+    .bio-para{
+        width: 100%;
+    }
+
+    .bio-para p{
+        font-size: 14px;
+    }
+
+    .name-right {
+        justify-content: start;
+        width: 100%;
+    }
+
+    .social-bio{
+        width: 100%;
+    }
+
+    .social-bio p{
+        font-size: 19px;
+        margin: 15px 0px;
+    }
+
+    .social-bio span a{
+        font-size: 14px;
+    }
+
+    .for-google {
+        top: 32%;
+        height: 185px;
+    }
+
+    .google{
+        width: 95%;
+        display: block;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        align-items: normal;
+        justify-content: normal;
+    }
+
+    .in-google{
+        align-items: center;
+        width: 100%;
+    }
+
+    .google-icons {
+        background-color: #363543;
+        width: 87%;
+        height: 79%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        margin: 0px 17px;
+    }
+    
+    .in-main2{
+        width: 95%;
+        display: block;
+    }
+
+    .services {
+        width: 100%;
+    }
+
+    .in-services h1 {
+        font-size: 45px;
+    }
+
+    .in-services>p{
+        padding-right: 35px;
+    }
+
+    .work{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .in-work{
+        margin: 0;
+    }
+
+    .work-info h2{
+        font-size: 21px;
+    }
+
+    .img{
+        width: 30%;
+    }
+
+    #arr1{
+        margin-left: 70px;
+    }
+
+    #arr2{
+        margin-left: 18px;
+    }
+
+    #arr3{
+        margin-left: 0;
+    }
+
+    #main-2{
+        height: auto;
+        padding-bottom: 50px
+    }
+    
+    #main-3{
+        height: auto;
+    }
+
+    .in-main3{
+        width: 95%;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 50px;
+    }
+
+    .dev {
+        width: 80%;
+        margin: 15px 0px;
+        padding-bottom: 20px;
+    }
+
+    
+.end-sec h2 {
+    font-size: 25px;
+}
+
+
+}
+
+
+
+
+@media screen and (max-width:800px) and (min-width:481px) {
+    
+    .for-menu {
+        display: none;
+    }
+
+    .main{
+        height: 1125px;
+    }
+
+    .navbar{
+        background-color: #222222;
+    }
+
+    .in-navbar{
+        width: 95%;
+    }
+
+    .for-logo {
+        width: 50%;
+        justify-content: start;
+    }
+
+    .for-logo img {
+        height: 30px;
+        width: 140px;
+    }
+
+    .for-rightitems {
+        width: 50%;
+        justify-content: end;
+    }
+
+    .yes{
+        display: none;
+    }
+
+    #yes{
+        display: block;
+    }
+
+    .profile-pic {
+        top: 107%;
+        left: 20%;
+    }
+
+    .profile-pic img {
+        height: 60%;
+    }
+
+    .circle{
+        /* display: none; */
+        height: 350px;
+        width: 350px;
+        margin-top: 0;
+        position: absolute;
+        top: 112%;
+    left: 24%;
+    }
+
+    .for-namesec{
+        padding-top: 120px;
+        top: 0%;
+    }
+
+    .in-mainsec{
+        width: 95%;
+        display: block;
+    }
+
+    .name-left{
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .headings h1 {
+        font-size: 45px;
+    }
+
+    #main-head {
+        font-size: 55px;
+    }
+
+    .bottom-border {
+        width: 110px;
+    }
+
+    .bio-para{
+        width: 100%;
+    }
+
+    .bio-para p{
+        font-size: 14px;
+    }
+
+    .name-right {
+        justify-content: start;
+        width: 100%;
+    }
+
+    .social-bio{
+        width: 100%;
+    }
+
+    .social-bio p{
+        font-size: 19px;
+        margin: 15px 0px;
+    }
+
+    .social-bio span a{
+        font-size: 14px;
+    }
+
+    .for-google {
+        top: 32%;
+        height: 185px;
+    }
+
+    .google{
+        width: 95%;
+        display: block;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        align-items: normal;
+        justify-content: normal;
+    }
+
+    .in-google{
+        align-items: center;
+        width: 100%;
+    }
+
+    .google-icons {
+        background-color: #363543;
+        width: 87%;
+        height: 79%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        margin: 0px 17px;
+    }
+    
+    .in-main2{
+        width: 95%;
+        display: block;
+    }
+
+    .services {
+        width: 100%;
+    }
+
+    .in-services h1 {
+        font-size: 45px;
+    }
+
+    .in-services>p{
+        padding-right: 35px;
+    }
+
+    .work{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .in-work{
+        margin: 0;
+    }
+
+    .work-info h2{
+        font-size: 21px;
+    }
+
+    .img{
+        width: 30%;
+    }
+
+    #arr1{
+        margin-left: 70px;
+    }
+
+    #arr2{
+        margin-left: 18px;
+    }
+
+    #arr3{
+        margin-left: 0;
+    }
+
+    #main-2{
+        height: auto;
+        padding-bottom: 50px
+    }
+    
+    #main-3{
+        height: auto;
+    }
+
+    .in-main3{
+        width: 95%;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 50px;
+    }
+
+    .dev {
+        width: 80%;
+        margin: 15px 0px;
+        padding-bottom: 20px;
+    }
+
+    
+.end-sec h2 {
+    font-size: 25px;
+}
+
+
+}
